@@ -4,7 +4,8 @@
     "license": "MIT",
     "version": "1.0.0",
     "require": {
-        "larakit/sf-angular-larakit": "*"
+        "larakit/sf-angular-larakit": "*",
+        "larakit/sf-jquery-nestable": "*"
     },
     "autoload": {
         "files": [
