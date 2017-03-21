@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-angular-nestable",
+    "description": "[Larakit] [staticfiles] sf-angular-nestable",
+    "license": "MIT",
+    "version": "1.0.0",
+    "require": {
+        "larakit/sf-angular-larakit": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
